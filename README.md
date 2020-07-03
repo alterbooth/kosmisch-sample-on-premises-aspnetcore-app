@@ -1,0 +1,1 @@
+# kosmisch-sample-on-premises-aspnetcore-app
